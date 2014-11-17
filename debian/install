@@ -1,0 +1,4 @@
+skel/.[a-zA-Z]*     /etc/skel
+changelog.gz        /usr/share/doc/desktop-defaults-full-antix 
+copyright           /usr/share/doc/desktop-defaults-full-antix 
+smbc.png            /usr/share/pixmaps  

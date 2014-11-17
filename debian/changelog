@@ -1,0 +1,387 @@
+desktop-defaults-full-antix (0.4.0) unstable; urgency=low
+ 
+  * Better modularisation.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 16 Dec 2013 14:50:00 +0200
+
+
+desktop-defaults-full-antix (0.3.9.4) unstable; urgency=low
+
+  * Added smbc.png for .desktop menu.
+  * Removed 'Other' entries from .desktop files (synaptic,gparted)
+
+ -- anticapitalista <antiX@operamail.com> Sat, 23 Nov 2013 15:40:00 +0200
+
+
+desktop-defaults-full-antix (0.3.9.3) unstable; urgency=low
+
+  * Fixed jwm tray bug.
+
+ -- anticapitalista <antiX@operamail.com> Wed, 30 Oct 2013 23:50:00 +0200
+
+
+desktop-defaults-full-antix (0.3.9.2) unstable; urgency=low
+
+  * New menu structure and localisations.
+  * Ready for antiX-13.2 release.
+
+ -- anticapitalista <antiX@operamail.com> Tues, 29 Oct 2013 21:30:00 +0200
+
+
+desktop-defaults-full-antix (0.3.9.1) unstable; urgency=low
+
+  * Added some more icons to menu.
+  * Separated sources deb to apt-antix.
+  * Removed Luddite docs.
+  * Gtk3 set to Adwaita Elements.
+  * Many changes to implement rox features.
+  * Packaged using dpkg-buildpackage.
+  * xz compressed deb.
+
+ -- anticapitalista <antiX@operamail.com> Sat, 19 Oct 2013 16:10:00 +0200
+
+
+desktop-defaults-full-antix (0.3.8.8) unstable; urgency=low
+
+  * Force overwrite of antix.list sources.
+
+ -- anticapitalista <antiX@operamail.com> Thu, 04 Oct 2013 15:30:00 +0200
+
+
+desktop-defaults-full-antix (0.3.8.6) unstable; urgency=low
+ 
+  * Reduced sleep times for icewm startup.
+  * Tidied up menus, including adding missing icons.
+
+ -- anticapitalista <antiX@operamail.com> Thu, 27 June 2013 11:10:00 +0200
+
+
+desktop-defaults-full-antix (0.3.8.5) unstable; urgency=low
+ 
+  * Added some more cli apps to icewm menu.
+  * Added some more icons to menu.
+
+ -- anticapitalista <antiX@operamail.com> Sun, 16 June 2013 15:10:00 +0200
+
+
+desktop-defaults-full-antix (0.3.8.4) unstable; urgency=low
+ 
+  * Removed & from icewm startup auto-icewm-menu.sh &.
+
+ -- anticapitalista <antiX@operamail.com> Thu, 13 June 2013 18:30:00 +0200
+
+
+desktop-defaults-full-antix (0.3.8.3) unstable; urgency=low
+ 
+  * Changed ownership to root:root.
+
+ -- anticapitalista <antiX@operamail.com> Thu, 06 June 2013 00:10:00 +0200
+
+
+desktop-defaults-full-antix (0.3.8.2) unstable; urgency=low
+ 
+  * Added gfxboot docs to menus.
+
+ -- anticapitalista <antiX@operamail.com> Fri, 31 May 2013 13:40:00 +0200
+
+
+desktop-defaults-full-antix (0.3.8.1) unstable; urgency=low
+ 
+  * Minor edits.
+
+ -- anticapitalista <antiX@operamail.com> Fri, 31 May 2013 11:10:00 +0200
+
+
+desktop-defaults-full-antix (0.3.8) unstable; urgency=low
+ 
+  * Fixed file permissions for fluxbox/keys.
+
+ -- anticapitalista <antiX@operamail.com> Tues, 28 May 2013 14:10:00 +0200
+
+
+desktop-defaults-full-antix (0.3.7) unstable; urgency=low
+ 
+  * Added #spacefm -d to startup scripts.
+
+ -- anticapitalista <antiX@operamail.com> Wed, 23 May 2013 01:20:00 +0200
+
+
+desktop-defaults-full-antix (0.3.6) unstable; urgency=low
+ 
+  * Added connectshares & to window manager start up scripts..
+
+ -- anticapitalista <antiX@operamail.com> Mon, 22 Apr 2013 14:20:00 +0200
+
+
+desktop-defaults-full-antix (0.3.5) unstable; urgency=low
+ 
+  * New default Release name.
+
+ -- anticapitalista <antiX@operamail.com>  Tue, 09 Apr 2013 16:45:00 +0200
+
+
+desktop-defaults-full-antix (0.3.4) unstable; urgency=low
+ 
+  * New default wallpaper. 
+  * Do not activate xinitrc-custom for auto-mount.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 02 March 2013 20:45:00 +0200
+
+
+desktop-defaults-full-antix (0.3.3.6) unstable; urgency=low
+ 
+  * More localisation.
+  * Removed Wobblies docs for Ahmad Sami. 
+  * Activate xinitrc-custom for auto-mount.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 09 February 2013 14:35:00 +0200
+
+
+desktop-defaults-full-antix (0.3.3.5) unstable; urgency=low
+ 
+  * More localisation.
+  * Wobblies documentation. 
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 25 January 2013 14:35:00 +0200
+
+desktop-defaults-full-antix (0.3.3.4) unstable; urgency=low
+ 
+  * Bugfix .xinitrc.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 10 November 2012 16:40:00 +0200
+
+
+desktop-defaults-full-antix (0.3.3.3) unstable; urgency=low
+ 
+  * Removed parts of /etc/skel/.mozilla.
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 08 November 2012 13:50:00 +0200
+
+
+desktop-defaults-full-antix (0.3.3.2) unstable; urgency=low
+ 
+  * xmms and yad incorporated into antiX repos.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 04 November 2012 23:50:00 +0200
+
+
+desktop-defaults-full-antix (0.3.3.1) unstable; urgency=low
+ 
+  * Minor edits.
+
+ -- anticapitalista <antiX@operamail.com>  Tue, 30 October 2012 18:50:00 +0200
+
+
+desktop-defaults-full-antix (0.3.3) unstable; urgency=low
+ 
+  * New xmms skins.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 27 October 2012 19:10:00 +0200
+
+
+desktop-defaults-full-antix (0.3.2) unstable; urgency=low
+ 
+  * New methods.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 20 October 2012 18:10:00 +0200
+
+
+desktop-defaults-full-antix (0.3.1) unstable; urgency=low
+ 
+  * Moved live information.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 17 October 2012 15:10:00 +0200
+
+
+desktop-defaults-full-antix (0.2.9.7) unstable; urgency=low
+ 
+
+desktop-defaults-full-antix (0.3.0) unstable; urgency=low
+ 
+  * Moved live information folder to build scripts.
+  * Moved /etc/antix-version to build scripts.
+  * Moved /etc/sudoers.d/antixers to build scripts.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 14 October 2012 15:00:00 +0200
+
+
+desktop-defaults-full-antix (0.2.9.7) unstable; urgency=low
+ 
+  * ktsuss replaces gksu.
+  * Update live information.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 13 October 2012 16:50:00 +0200
+
+desktop-defaults-full-antix (0.2.9.6) unstable; urgency=low
+
+  * Removed all xmms stuff.
+  * Update live information.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 01 October 2012 16:40:00 +0200
+
+
+desktop-defaults-full-antix (0.2.9.5) unstable; urgency=low 
+ 
+  * Update live information.
+  * conky fixes.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 03 September 2012 19:10:00 +0200
+
+
+desktop-defaults-full-antix (0.2.9.4) unstable; urgency=low 
+ 
+  * Update live information. 
+  * New 3.5.2 kernel.
+  * Bug fix menus.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 18 August 2012 20:10:00 +0200
+
+
+desktop-defaults-full-antix (0.2.9.3) unstable; urgency=low 
+ 
+  * Added /usr/bin/autologin
+  * Update live information.
+  * Bugfix /usr/local/bin/restart-X. 
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 26 July 2012 01:20:00 +0200
+
+desktop-defaults-full-antix (0.2.9.2) unstable; urgency=low 
+ 
+  * Added copyright notice.
+  * New mepis.list in /etc/apt/sources.list.d
+  * gtk3 themes added to root.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 16 July 2012 16:30:00 +0200
+
+
+desktop-defaults-full-antix (0.2.9.1) unstable; urgency=low 
+ 
+  * xmms skins set to /usr/share/xmms/Skins.
+  * Set Debian repos to Testing. Added wheezy and notes.
+  * gtk theme changed to Zukitwo.
+  * Added gparted.desktop file to open as gksu gparted.
+  * Added synaptic.desktop file to open as gksu synaptic.
+  * Moved /usr/share/antiX-install/rc.local to live-init.
+  * New FAQ and live-boot docs separted. Now separate packages.
+  * Added Rox-filer SendTo files for Open As Root.
+  * Altered for /bin/bash.
+
+ -- anticapitalista <antiX@operamail.com>  Sun 08 July 2012 18:40:00 +0200
+
+
+desktop-defaults-full-antix (0.2.9.0) unstable; urgency=low 
+ 
+  * Included dillo defaults to /etc/skel.
+  * Removed icewmcc (needs fixing for yad).
+  * Removed icewmcc from icewm menus.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 03 June 2012 22:20:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.9) unstable; urgency=low 
+ 
+  * Altered default wallpaper.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 07 May 2012 12:20:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.8) unstable; urgency=low 
+ 
+  * Fixed typo rox pinboard.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 27 April 2012 12:50:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.7) unstable; urgency=low 
+ 
+  * Added localisation.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 25 April 2012 17:50:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.6) unstable; urgency=low 
+ 
+  * spacefm default config set to use pmount.
+  * Edited sources list.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 18 April 2012 17:50:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.5) unstable; urgency=low 
+ 
+  * Edited menus to include spacefm.
+  * Removed /usr/share/antiX-install/bashrc.
+  * Edited antiX sources list.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 11 March 2012 17:50:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.4) unstable; urgency=low 
+ 
+  * Changed icewm keys file to use amixer
+
+ -- anticapitalista <antiX@operamail.com>  Thur, 01 March 2012 14:50:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.3) unstable; urgency=low 
+ 
+  * Added xorg.conf.in, xorg.conf.d folder with synaptics.conf file to /etc/X11.(touchpad)
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 26 February 2012 14:40:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.2) unstable; urgency=low 
+ 
+  * conky changes.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 20 February 2012 16:30:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8.1) unstable; urgency=low 
+ 
+  * Added antiX repo.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 13 February 2012 21:30:00 +0200
+
+
+desktop-defaults-full-antix (0.2.8) unstable; urgency=low 
+ 
+  * Using /etc/sudoers.d/antixers file.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 05 February 2012 21:30:00 +0200
+
+
+desktop-defaults-full-antix (0.2.7) unstable; urgency=low 
+ 
+  * Changed /usr/share/antiX-install/rc.local to remove antiX-installer and qt4 libs on first boot after install.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 25 January 2012 16:30:00 +0200
+
+
+desktop-defaults-full-antix (0.2.6) unstable; urgency=low 
+ 
+  * incorprated /etc/apt.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 16 January 2012 15:30:00 +0200
+
+
+desktop-defaults-full-antix (0.2.5) unstable; urgency=low 
+ 
+  * Internationalisation of scripts.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 02 January 2012 15:30:00 +0200
+
+
+desktop-defaults-full-antix (0.2.0) unstable; urgency=low 
+ 
+  * Replaced iceape with iceweasel so menu and rox files needed changing.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 30 December 2011 13:30:00 +0200
+
+
+desktop-defaults-full-antix (0.1.0) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 20 November 2011 15:30:00 +0200
+
